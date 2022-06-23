@@ -1,0 +1,27 @@
+body {
+    background-color: rgba(128, 38, 0, 0.661);
+}
+.conteinet {
+    height: 550px;
+    width: 500px;
+    margin-left: 670px;
+    background-color:  rgb(140, 139, 59);
+    border-radius: 2px 75px;
+}
+h1 {
+    height: 25px;
+    width: -40px;
+    text-align: center;
+}
+.you {
+    height: 16px;
+    width: 260px;
+    margin-left: 100px;
+}
+.off {
+    height: auto;
+    width: auto;
+    text-align: center;
+    margin-top: 10px;
+    font-size: 25px;
+}
